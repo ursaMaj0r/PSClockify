@@ -1,0 +1,6 @@
+# ignore private folder
+private/
+scripts/
+
+# ignore files
+.DS_Store

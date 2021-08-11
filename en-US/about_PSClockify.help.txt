@@ -1,0 +1,14 @@
+PSTOPIC
+    about_PSClockify
+
+SHORT DESCRIPTION
+    PSClockify enables you to interact with the Clockify API through PowerShell
+
+LONG DESCRIPTION
+    PSClockify enables you to interact with the Clockify API through PowerShell
+
+    You can find API documentation here:
+        https://clockify.me/developers-api
+
+DETAILED DESCRIPTION
+    This is a basic API wrapper used to track time using Clockify.
